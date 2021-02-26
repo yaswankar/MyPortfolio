@@ -1,0 +1,164 @@
+{
+    "firstname": "Amaarshall Yaswankar",
+    "lastname": "K",
+    "email": "yaswankar1998@gmail.com",
+    "location": "TamilNadu, India",
+    "phone": "+91 9176969413",
+    "github": "https://github.com/yaswankar",
+    "twitter": "https://twitter.com/AmaarshallY?s=08",
+    "linkedIn": "https://www.linkedin.com/in/amaarshall-yaswankar-k-b3b33a145/",
+    "stackoverflow": "https://stackoverflow.com/users/11281152/amaarrockz",
+    "summary": "Amaarshall Yaswankar is a software engineer with 2+ years of professional experience.",
+    "education": [
+        {
+            "school": "Rajalakshmi Institute of Technology",
+            "degree": "Bachelor Of Engineering",
+            "major": "Electronics and Engineering",
+            "minor": "Computer Science",
+            "start": "June 2015",
+            "end": "May 2019"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Linarc Inc.",
+            "roles": [
+                {
+                    "job": "Software Engineer - 2",
+                    "start": "October 2020",
+                    "end": "Present",
+                    "tasks": [
+                        "Maintain and develop new features on a Vue.JS web application with javascript.",
+                        "Developing a scheduler App that has task scheduling feature, progress tracking using gantt charts"
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "Linarc Inc.",
+            "roles": [
+                {
+                    "job": "Software Engineer - 1",
+                    "start": "June 2019",
+                    "end": "September 2020",
+                    "tasks": [
+                        "Working as a part of the Web Development Team, design and building service API's.",
+                        "Worked on a development team using the Scrum process.",
+                        "Developed a generic text editor component that allows custom formatting of text and other options like adding checklist, tables and file attachments.",
+                        "Developed a module that allows users to send multiple invitations via sms and email using Sendgrid and Twilio services.",
+                        "Developed a dashboard for easy showcasing of product metrics to stakeholders.",
+                        "Developed a controller portal that will help the admin to keep track of the employee's efforts, view timecards and generate payrolls on a weekly or monthly basis.",
+                        "Built a a COVID-19 App for Web wherein the admin can keep track of the health status of employees on each site. Also has a mechanism to send SMS reminders to employees for taking up the daily assessment checks."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "Linarc Inc.",
+            "roles": [
+                {
+                    "job": "Software Engineer (Intern)",
+                    "start": "March 2019",
+                    "end": "May 2019",
+                    "tasks": [
+                        "Task was to design an efficient data model (in javascript) to store company specific data in firebase.",
+                        "Was able to create multiple possible designs. Found the cost of querying and efficiency for each desgin and worked on the user Interfaces for the same.",
+                        "Worked on a development team using the Scrum process.",
+                        "Analyzed software requirements."
+                    ]
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "JavaScript",
+            "category": "Languages",
+            "image_url": "js.png",
+            "proficiency_level": ".75"
+        },
+        {
+            "name": "Python",
+            "category": "Languages",
+            "image_url": "python.png",
+            "proficiency_level": ".4"
+        },
+        {
+            "name": "HTML",
+            "category": "Languages",
+            "image_url": "html.png",
+            "proficiency_level": ".7"
+        },
+        {
+            "name": "C",
+            "category": "Languages",
+            "image_url": "c.png",
+            "proficiency_level": ".6"
+        },
+        {
+            "name": "C++",
+            "category": "Languages",
+            "image_url": "c++.png",
+            "proficiency_level": ".6"
+        },
+        {
+            "name": "CSS",
+            "category": "Languages",
+            "image_url": "css.png",
+            "proficiency_level": ".5"
+        },
+        {
+            "name": "FIREBASE",
+            "category": "Databases",
+            "image_url": "firebase.png",
+            "proficiency_level": ".5"
+        },
+        {
+            "name": "MongoDB",
+            "category": "Databases",
+            "image_url": "mongodb.png",
+            "proficiency_level": ".4"
+        },
+        {
+            "name": "Vue.js",
+            "category": "Frameworks and Libraries",
+            "image_url": "vuejs.png",
+            "proficiency_level": ".75"
+        },
+        {
+            "name": "Git",
+            "category": "Development Tools",
+            "image_url": "git.png",
+            "proficiency_level": ".7"
+        },
+        {
+            "name": "Visual Studio Code",
+            "category": "Development Tools",
+            "image_url": "vscode.png",
+            "proficiency_level": ".79"
+        },
+        {
+            "name": "Youtrack",
+            "category": "Development Tools",
+            "image_url": "youtrack.png",
+            "proficiency_level": ".5"
+        },
+        {
+            "name": "Postman",
+            "category": "Development Tools",
+            "image_url": "postman.png",
+            "proficiency_level": ".5"
+        }
+    ],
+    "interests": "Badminton, Drawing, Football",
+    "projects": [
+        {
+            "name": "Mailbox",
+            "start": "Jan 2020",
+            "description": "Mailbox that display the inox mails based on date selection",
+            "source": "https://github.com/yaswankar/mailbox",
+            "website": "",
+            "preview_url": ""
+        }
+    ]
+}
