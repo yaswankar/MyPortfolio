@@ -155,7 +155,7 @@
         {
             "name": "Mailbox",
             "start": "Jan 2020",
-            "description": "Mailbox that display the inox mails based on date selection",
+            "description": "Mailbox that display the inbox mails based on date selection",
             "source": "https://github.com/yaswankar/mailbox",
             "website": "",
             "preview_url": ""
