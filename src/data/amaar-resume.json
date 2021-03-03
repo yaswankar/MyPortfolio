@@ -158,7 +158,15 @@
             "description": "Mailbox that display the inbox mails based on date selection",
             "source": "https://github.com/yaswankar/mailbox",
             "website": "",
-            "preview_url": ""
+            "demo": ""
+        },
+        {
+            "name": "Portfolio App",
+            "start": "Jan 2020",
+            "description": "A vue based UI built to showcase my profile",
+            "source": "https://github.com/yaswankar/MyPortfolio",
+            "website": "",
+            "demo": "https://amaar-portfolio.herokuapp.com/"
         }
     ]
 }
