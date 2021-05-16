@@ -153,20 +153,28 @@
     "interests": "Badminton, Drawing, Football",
     "projects": [
         {
-            "name": "Mailbox",
-            "start": "Jan 2020",
-            "description": "Mailbox that display the inbox mails based on date selection",
-            "source": "https://github.com/yaswankar/mailbox",
-            "website": "",
-            "demo": ""
-        },
-        {
             "name": "Portfolio App",
             "start": "Jan 2020",
             "description": "A vue based UI built to showcase my profile",
             "source": "https://github.com/yaswankar/MyPortfolio",
             "website": "",
             "demo": "https://amaar-portfolio.herokuapp.com/"
+        },
+        {
+            "name": "Snake-Game",
+            "start": "May 2020",
+            "description": "A vue based game",
+            "source": "https://github.com/yaswankar/Snake-Game",
+            "website": "",
+            "demo": "https://snakee-game.herokuapp.com/"
+        },
+        {
+            "name": "Mailbox",
+            "start": "Jan 2020",
+            "description": "Mailbox that display the inbox mails based on date selection",
+            "source": "https://github.com/yaswankar/mailbox",
+            "website": "",
+            "demo": ""
         }
     ]
 }
